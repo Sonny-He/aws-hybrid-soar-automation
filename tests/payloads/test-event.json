@@ -1,0 +1,8 @@
+[
+  {
+    "Source": "soar.test",
+    "DetailType": "SecurityEvent",
+    "Detail": "{\"severity\":\"high\",\"event_type\":\"test_alert\",\"source_ip\":\"192.168.1.100\",\"message\":\"Test security event from CLI\"}",
+    "EventBusName": "cs1-ma-nca-soar-events"
+  }
+]

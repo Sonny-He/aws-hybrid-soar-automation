@@ -1,0 +1,7 @@
+{
+  "Records": [
+    {
+      "body": "{\"detail\":{\"severity\":\"high\",\"event_type\":\"test_event\",\"source_ip\":\"192.168.1.100\",\"message\":\"Test security event\"}}"
+    }
+  ]
+}
